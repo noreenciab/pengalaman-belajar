@@ -23,4 +23,3 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 Aku menambahkan file AHP dan mengedit berkas README untuk mencoba fitur merge.<br>
 Tuliskanlah hal yang berbeda pada setiap isi teks README.md di setiap branch.
-Kemudian, lakukan commit pada masing-masing branch.
